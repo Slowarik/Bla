@@ -257,6 +257,15 @@ background-color: #ffc0cb
 <br>
 <span>Последний выделенный объект называется активным. Обводка вокруг него будет немного ярче, чем у остальных объектов. Именно его свойства будут показываться в редакторе свойств. Позже вы будете использовать эту особенность часто</span>
 <img src=https://blog.brainyman.xyz/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2020/05/image-1.png.webp alt="Kaka" width=600" heiht="600" style="margin-left: 50px;"/>">
+ 
+ ![image](https://github.com/Slowarik/Bla/assets/135324815/83813a13-8ebd-49fd-ab53-bae09db25242)
+
+ 
+ 
+ 
+ 
+ 
+ 
 <br><br>
 Стоит отметить два инструмента, чрезвычайно полезных при выборе объектов:
 <br><br>
