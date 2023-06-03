@@ -236,7 +236,7 @@ background-color: #ffc0cb
 <br><br>
 <span> Выделения и активный объект </span>
 <br>
-<span>Блендер различает два различных состояния выбора:</span>
+<span>Блендер различает два различных состояния выбора:</span> 
 <br><br>
 <img src=https://docs.blender.org/manual/ru/latest/_images/scene-layout_object_selecting_color.png alt="Kaka" width=600" heiht="600" style="margin-left: 50px;"/>">
 <br><br>
