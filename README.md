@@ -50,7 +50,8 @@ background-color:#ffc0cb
 <span><font size="3">После запуска Blender и закрытия заставки,окно Blender должно выглядеть аналогично изображению ниже</font></span>
 <br>
 <ol></ol><ol></ol>
-<img src="https://docs.blender.org/manual/en/latest/_images/interface_window-system_introduction_default-startup.png" alt="Kaka" width=800" heiht="600" style="margin-left: 100px;"/>">
+![image](https://github.com/Slowarik/Bla/assets/135324815/b5b3737f-355f-44db-b748-73d2aa2bb4f6)
+
 <br><br>
 <span><font size="4">Интерфейс Blender разделён на три основные части</font></span>
 <br><br>
